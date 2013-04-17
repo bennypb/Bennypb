@@ -1,5 +1,5 @@
 package com.bennyp12.goldsmelter.nodes;
-
+ 
 import org.powerbot.core.script.job.state.Node;
 import org.powerbot.core.script.util.Timer;
 import org.powerbot.game.api.methods.Walking;
