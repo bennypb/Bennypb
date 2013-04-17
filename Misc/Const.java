@@ -29,3 +29,4 @@ public class Const {
 	public static final Area EDGE_AREA = new Area(new Tile[] { new Tile(3086, 3507, 0), new Tile(3086, 3483, 0), new Tile(3115, 3482, 0), new Tile(3115, 3507, 0) });
 
 }
+ 
