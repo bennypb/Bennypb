@@ -14,7 +14,7 @@ public class Const {
 
 	public static final long STARTING_TIME = System.currentTimeMillis();
 
-	public static String PAINT_URL = "http://i.imgur.com/G166nW5.jpg";
+	public static final String PAINT_URL = "http://i.imgur.com/G166nW5.jpg";
 
 	public static final Area ALK_SMITH = new Area(new Tile[] { new Tile(3269, 3192, 0), new Tile(3269, 3187, 0), new Tile(3278, 3187, 0), new Tile(3278, 3193, 0) });
 	public static final Area ALK_BANK = new Area(new Tile[] { new Tile(3266, 3172, 0), new Tile(3266, 3164, 0), new Tile(3272, 3163, 0), new Tile(3272, 3172, 0) });
