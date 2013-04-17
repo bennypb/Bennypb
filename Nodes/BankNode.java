@@ -32,4 +32,4 @@ public class BankNode extends Node {
 			Bank.close();
 		}
 	}
-}
+} 
