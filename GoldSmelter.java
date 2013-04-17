@@ -4,7 +4,7 @@ import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Point;
 import java.util.ArrayList;
-import java.util.Collections;
+import java.util.Collections; 
 import java.util.List;
 
 import org.powerbot.core.event.listeners.PaintListener;
